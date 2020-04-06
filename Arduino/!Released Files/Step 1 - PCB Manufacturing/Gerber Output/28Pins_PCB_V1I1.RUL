@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: F:\Design your own board - Altium Designer\Arduino board project\Design Files\V1I1\28Pins_PCB_V1I1.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Powers Width|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Around Polygons|Scope=Board|Minimum=11.81
